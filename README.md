@@ -8,7 +8,8 @@ Desktop information retrieval with integrated AI Assistant, MCP Client, Local LL
   <img src="https://img.shields.io/badge/Windows-Desktop-0078D4?style=flat-square&logo=windows" title="Windows 10/11"/>
  <img src="https://img.shields.io/badge/License-Apache 2.0-green?style=flat-square" title="Apache 2.0 License"/>
 </p>
-See Wiki - [Introduction](https://github.com/electronart/esearch-project/wiki)
+
+[See Wiki - Introduction](https://github.com/electronart/esearch-project/wiki)
 
 
 ## Code of Conduct
